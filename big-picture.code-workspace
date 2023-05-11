@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../demo"
+		},
+		{
+			"path": "../ionic-framework"
+		},
+		{
+			"path": "../react-stencil"
+		},
+		{
+			"path": "../angular-stencil"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "demo"
+	}
+}
